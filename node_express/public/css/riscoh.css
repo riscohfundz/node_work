@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home{
+    background-color: green;
+    color: #f1f1f1;
+}
+.about{
+    background-color: crimson;
+    color: #f1f1f1;
+}
+
+.class{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: blue;
+}
+.my_portifolio{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+}
+
+img{
+    width: 300px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+ 
+}
